@@ -30,3 +30,18 @@ body {
     background: #313592;
     border-radius: 50px;
 }
+.m-heading {
+    font-family: "Baloo Tamma 2", cursive;
+}
+.media_link {
+    max-width: 12rem !important; 
+    margin-left: 1rem;
+    border: 2px solid #f5ba09;
+    border-radius: 0.5rem;
+}
+a:hover {
+    text-decoration: none;
+}
+#social-media {
+    background: #313592;
+}
